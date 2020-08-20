@@ -1,4 +1,4 @@
-package variables_and_data_types.ex_5;
+package part_1_variables_and_data_types.ex_5;
 
 import java.util.ArrayList;
 import java.util.List;

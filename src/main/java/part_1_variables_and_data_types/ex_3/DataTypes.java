@@ -1,4 +1,4 @@
-package variables_and_data_types.ex_3;
+package part_1_variables_and_data_types.ex_3;
 
 public class DataTypes {
     public static void main(String[] args) {

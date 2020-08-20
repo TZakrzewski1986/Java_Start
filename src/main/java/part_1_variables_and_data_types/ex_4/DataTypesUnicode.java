@@ -1,4 +1,4 @@
-package variables_and_data_types.ex_4;
+package part_1_variables_and_data_types.ex_4;
 
 public class DataTypesUnicode {
     public static void main(String[] args) {
