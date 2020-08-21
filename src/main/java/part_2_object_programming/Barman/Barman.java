@@ -20,8 +20,7 @@ public class Barman {
         System.out.printf("Składniki drinka to: %s, %s, %s", drink.getFirstIngredient().getIngredientsName(),
                 drink.getSecondIngredient().getIngredientsName(), drink.getThirdIngredient().getIngredientsName());
 
-        System.out.printf(" w proporcjach: %.2f, %.2f, %.2f.", ing1Part, ing2Part, ing3Part);
-        System.out.println();
-        System.out.printf("Jego pojemność to: %.0fml\n.", ingredientSum);
+        System.out.printf(" w proporcjach: %.2f, %.2f, %.2f.\n", ing1Part, ing2Part, ing3Part);
+        System.out.printf("Jego pojemność to: %.0fml.\n", ingredientSum);
     }
 }
