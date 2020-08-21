@@ -1,4 +1,6 @@
-package part_2_object_programming;
+package part_2_object_programming.Cabrio;
+
+import part_2_object_programming.Cabrio.Cabrio;
 
 public class CabrioRunner {
     public static void main(String[] args) {

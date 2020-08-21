@@ -1,4 +1,4 @@
-package part_2_object_programming;
+package part_2_object_programming.Cabrio;
 
 public class Cabrio {
     private String model;
